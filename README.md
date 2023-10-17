@@ -43,6 +43,6 @@ _Fevereiro 2023 - Setembro 2023_
 - **Análise de Dados com Python** - Coursera (IBM) (Março 2023)
 
 ## 📫 Entre em Contato!
-- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/cinthialpsantos/)
+- [**LinkedIn:**](https://www.linkedin.com/in/cinthialpsantos/)
 - **E-mail:** cithsantos@gmail.com
 
