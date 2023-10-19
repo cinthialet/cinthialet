@@ -7,7 +7,7 @@ Com **7 anos** de experiência em Administração e agora em transição para En
 Estou constantemente buscando aprimorar minhas habilidades e aplicá-las em projetos práticos. 
 Em breve, estarei compartilhando aqui projetos relacionados a:
 
-- [**Análise de Dados** com Python](https://github.com/cinthialet/python-manipulacao-dados) ;
+- [**Manipulação e Transformação de Dados** com Python](https://github.com/cinthialet/python-manipulacao-dados) ;
 - Implementações de processo **ETL** e pipeline de transformação de dados com Python, Spark , SQL ;
 - Implementações de **Data Lake** e **Data Warehouse** usando serviços da AWS ;
 - Projetos relacionados à **streaming de dados** usando Kafka ;
