@@ -7,11 +7,11 @@ Com **7 anos** de experiência em Administração e agora em transição para En
 Estou constantemente buscando aprimorar minhas habilidades e aplicá-las em projetos práticos. 
 Em breve, estarei compartilhando aqui projetos relacionados a:
 
-- [**Manipulação e Transformação de Dados** com Python](https://github.com/cinthialet/python-manipulacao-dados) ;
-- Implementações de processo **ETL** e pipeline de transformação de dados com Python, Spark , SQL ;
-- Implementações de **Data Lake** e **Data Warehouse** usando serviços da AWS ;
+- [**Manipulação e Transformação de Dados com Python**](https://github.com/cinthialet/python-manipulacao-dados) ;
+- [Implementações de processo **ETL** e pipeline de transformação de dados com Python, SQL e **AWS (S3 , Glue , Redshift, IAM, CloudWatch)**](https://github.com/cinthialet/etl-aws-pipeline) ;
+- [**Manipulação e Transformação de Dados com Spark**](https://github.com/cinthialet/spark-manipulacao-dados) ;
+- Implementações de **Data Lake** e **Data Warehouse** usando serviços da AWS com Spark ;
 - Projetos relacionados à **streaming de dados** usando Kafka ;
-- Implementações práticas usando **Spark** para processamento de Big Data ;
 - Aplicações e infraestruturas baseadas em **Docker** para conteinerização e orquestração de containers com **Docker Compose** .
   
 Fique atento às atualizações deste espaço!
@@ -39,7 +39,6 @@ _Fevereiro 2023 - Setembro 2023_
 - **Redis - Básico** - Semantix (Maio 2023)
 - **MongoDB - Básico** - Semantix (Maio 2023)
 - **Big Data Foundations - Hadoop, Hive, Sqoop, HBase** - Semantix (Abril 2023)
-- **Prompt Engineering - ChatGPT API** - Deeplearning.AI (Abril 2023)
 - **Análise de Dados com Python** - Coursera (IBM) (Março 2023)
 
 ## 📫 Entre em Contato!
