@@ -7,11 +7,11 @@ Com **7 anos** de experiência em Administração e agora em transição para En
 Estou constantemente buscando aprimorar minhas habilidades e aplicá-las em projetos práticos. 
 Em breve, estarei compartilhando aqui projetos relacionados a:
 
-- [**Manipulação e Transformação de Dados com Python**](https://github.com/cinthialet/python-manipulacao-dados) ;
-- [Implementações de processo **ETL** e pipeline de transformação de dados com Python, SQL e **AWS (S3 , Glue , Redshift, IAM, CloudWatch)**](https://github.com/cinthialet/etl-aws-pipeline) ;
-- [**Manipulação e Transformação de Dados com Spark**](https://github.com/cinthialet/spark-manipulacao-dados) ;
-- Implementações de **Data Lake** e **Data Warehouse** usando serviços da AWS com Spark ;
-- Projetos relacionados à **streaming de dados** usando Kafka ;
+- [Manipulação e Transformação de Dados com **Python**](https://github.com/cinthialet/python-manipulacao-dados) ;
+- [Implementações de processo **ETL** e pipeline de transformação de dados com **Python**, **SQL** e **AWS (S3 , Glue , Redshift, IAM, CloudWatch)**](https://github.com/cinthialet/etl-aws-pipeline) ;
+- [Manipulação e Transformação de Dados com **Spark**](https://github.com/cinthialet/spark-manipulacao-dados) ;
+- Implementações de **Data Lake** , **Data Warehouse** e **Data Marts** usando serviços da **AWS** com **Spark** e **SQL** ;
+- Projetos relacionados à **streaming de dados** usando **Kafka** ;
 - Aplicações e infraestruturas baseadas em **Docker** para conteinerização e orquestração de containers com **Docker Compose** .
   
 Fique atento às atualizações deste espaço!
