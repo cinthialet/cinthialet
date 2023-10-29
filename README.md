@@ -1,12 +1,12 @@
 # 👋 Olá, sou Cinthia!
 
 ## 🚀 Sobre Mim
-Com mais de **7 anos** de experiência no mercado em Administração e agora em transição para Engenharia de Dados, estou especializando-me em **Engenharia de Dados** e **Big Data**. Familiarizado com uma série de tecnologias e ferramentas, sou capaz de agregar valor técnico e estratégico em ambientes orientados por dados. A inovação e diversidade são dois pilares que prezo em um ambiente de trabalho, e estou sempre buscando aprender e adaptar-me às novas tecnologias.
+Com mais de **7 anos** de experiência no mercado em Administração e agora em transição para Engenharia de Dados, estou me especializando em **Engenharia de Dados** e **Big Data**. Familiarizada com uma série de tecnologias e ferramentas, sou capaz de agregar valor técnico e estratégico em ambientes orientados a dados. A inovação, o aprendizado contínuo e a diversidade são os pilares que prezo em um ambiente de trabalho, e estou sempre buscando aprender e me adaptar às novas tecnologias para construir soluções que agregam valor para o cliente.
 - Experiência em projetos de Engenharia de Dados : 10 meses (Jan-Out 2023)
 
 ## 💡 Projetos em Andamento
 Estou constantemente buscando aprimorar minhas habilidades e aplicá-las em projetos práticos. 
-Em breve, estarei compartilhando aqui projetos relacionados a:
+Aqui irei publicar meus projetos pessoais práticos e com passo-a-passo relacionados a:
 
 - [Manipulação e Transformação de Dados com **Python**](https://github.com/cinthialet/python-manipulacao-dados) ;
 - [Implementações de processo **ETL** e pipeline de transformação de dados com **Python**, **SQL** e **AWS (S3 , Glue , Redshift, IAM, CloudWatch)**](https://github.com/cinthialet/etl-aws-pipeline) ;
