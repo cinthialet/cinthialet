@@ -11,7 +11,7 @@ Aqui irei publicar meus projetos pessoais práticos e com passo-a-passo relacion
 - [Manipulação e Transformação de Dados com **Python**](https://github.com/cinthialet/python-manipulacao-dados) ;
 - [Implementações de processo **ETL** e pipeline de transformação de dados com **Python**, **SQL** e **AWS (S3 , Glue , Redshift, IAM, CloudWatch)**](https://github.com/cinthialet/etl-aws-pipeline) ;
 - [Manipulação e Transformação de Dados com **Spark**](https://github.com/cinthialet/spark-manipulacao-dados) ;
-- Implementações de **Data Lake** , **Data Warehouse** e **Data Marts** usando serviços da **AWS** com **Spark** e **SQL** ;
+- Implementações de **Data Lake** e **Data Warehouse** usando serviços da **AWS** com **Spark** e **SQL** ;
 - Projetos relacionados à **streaming de dados** usando **Kafka** ;
 - Aplicações e infraestruturas baseadas em **Docker** para conteinerização e orquestração de containers com **Docker Compose** .
   
