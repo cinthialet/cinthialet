@@ -45,4 +45,5 @@ _Fevereiro 2023 - Setembro 2023_
 ## 📫 Entre em Contato!
 - [**LinkedIn**](https://www.linkedin.com/in/cinthialpsantos/)
 - **E-mail:** cithsantos@gmail.com
+- **Whatsapp:** (21)982641224
 
