@@ -1,8 +1,9 @@
 # 👋 Olá, sou Cinthia!
 
 ## 🚀 Sobre Mim
-Com mais de **7 anos de experiência no mercado** em Administração e agora em **transição para Engenharia de Dados**, estou me especializando em **Engenharia de Dados** e **Big Data**. Familiarizada com uma série de tecnologias e ferramentas, sou capaz de agregar valor técnico e estratégico em ambientes orientados a dados. A inovação, o aprendizado contínuo e a diversidade são os pilares que prezo em um ambiente de trabalho, e estou sempre buscando aprender e me adaptar às novas tecnologias para construir soluções que agregam valor para o cliente.
-- Experiência em projetos de Engenharia de Dados : 1 ano (Jan-Dez 2023)
+Com mais de **7 anos de experiência no mercado** em Administração e agora há **1 ano em Engenharia de Dados**, estou me especializando em **Engenharia de Dados** e **Big Data**. Familiarizada com uma série de tecnologias e ferramentas, sou capaz de agregar valor técnico e estratégico em ambientes orientados a dados. A inovação, o aprendizado contínuo e a diversidade são os pilares que prezo em um ambiente de trabalho, e estou sempre buscando aprender e me adaptar às novas tecnologias para construir soluções que agregam valor para o cliente.
+
+> Experiência em projetos de Engenharia de Dados : 1 ano (Jan-Dez 2023)
 
 ## 💡 Projetos em Andamento
 Estou constantemente buscando aprimorar minhas habilidades e aplicá-las em projetos práticos. 
