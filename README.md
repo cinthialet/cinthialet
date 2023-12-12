@@ -26,7 +26,8 @@ Fique atento às atualizações deste espaço!
 - **Stream Processing:** Kafka (incluindo KSQL, Kafka Connect)
 - **Elastic Stack:** Elasticsearch, Logstash, Kibana
 - **Conteinerização:** Docker, Docker Compose
-- **ETL & Data Processing:** Transformação e manipulação de dados , criação de pipelines
+- **ETL & Data Processing:** Transformação e manipulação de dados , criação de pipelines , Datalake , Datawarehouse
+- **Cloud** : AWS
 
 ## 🏢 Experiência Laboral
 ### Big Data Engineer | Bootcamp - Semantix (Remoto)
