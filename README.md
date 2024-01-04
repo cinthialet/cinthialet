@@ -34,13 +34,13 @@ Fique atento às atualizações deste espaço!
 _Setembro 2023 - Atualmente_
 - Criação e implementação de projetos de Engenharia de Dados usando a Cloud da AWS.
 - Projetos : https://github.com/cinthialet/cinthialet#-projetos-em-andamento
-- **Competências chave:** Cloud Data Engineering , AWS : S3, Redshift , Glue Jobs, Glue Workflow , Lambda , CLoudwatch, IAM.
+- **Competências chave:** Python, SQL , Spark , Cloud Data Engineering , ETL pipeline, Modelagem de Dados , DataLake , DataWarehouse, AWS ( S3, Redshift , Glue Jobs, Glue Workflow , Lambda , Athena , Cloudwatch, IAM ).
 
 ### Big Data Engineer | Bootcamp - Semantix (Remoto)
 _Fevereiro 2023 - Setembro 2023_
 - Aprovada para participar do Bootcamp prático de Big Data Engineer da Semantix, com projetos reais de mercado, focado em cenários de Big Data e uso de tecnologias para ambientes On-premise utilizando Docker e Docker-compose.
 - Especialização em ferramentas de Big Data, bancos de dados relacionais e NoSQL, processamento de fluxo de dados, Elastic Stack e conteinerização.
-- **Competências chave:** Engenharia de Dados, SQL, Apache Spark, Elasticsearch, Apache Kafka, Docker, Big Data.
+- **Competências chave:** Engenharia de Dados, SQL, Spark, Apache Spark, Elasticsearch, Apache Kafka, Docker, Big Data.
 
 ### Data Engineer | Fundamentos (Remoto)
 _Dezembro 2022 - Março 2023_
