@@ -1,4 +1,5 @@
-# 👋 Olá, sou Cinthia!
+# 👋 Olá, sou Cinthia! ![image](https://github.com/cinthialet/cinthialet/assets/121108609/79cce047-85ef-44c6-a89e-3b6cad339068)
+
 
 ## 🚀 Sobre Mim
 Com mais de **7 anos de experiência no mercado** em Administração e agora há **1 ano em Engenharia de Dados**, estou me especializando em **Engenharia de Dados em Cloud** e **Big Data**. Familiarizada com uma série de tecnologias e ferramentas, sou capaz de agregar valor técnico e estratégico em ambientes orientados a dados. A inovação, o aprendizado contínuo e a diversidade são os pilares que prezo em um ambiente de trabalho, e estou sempre buscando aprender e me adaptar às novas tecnologias para construir soluções que agregam valor para o cliente.
