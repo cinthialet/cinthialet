@@ -1,4 +1,4 @@
-# 👋 Olá, sou Cinthia! !
+# 👋 Olá, sou Cinthia!
 
 
 ## 🚀 Sobre Mim
