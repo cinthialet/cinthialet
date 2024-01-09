@@ -1,4 +1,4 @@
-# 👋 Olá, sou Cinthia! ![image](https://github.com/cinthialet/cinthialet/assets/121108609/79cce047-85ef-44c6-a89e-3b6cad339068)
+# 👋 Olá, sou Cinthia! !
 
 
 ## 🚀 Sobre Mim
