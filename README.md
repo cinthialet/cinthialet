@@ -2,9 +2,9 @@
 
 
 ## 🚀 Sobre Mim
-Com mais de **7 anos de experiência no mercado** em Administração e agora há **1 ano em Engenharia de Dados**, estou me especializando em **Engenharia de Dados em Cloud** e **Big Data**. Familiarizada com uma série de tecnologias e ferramentas, sou capaz de agregar valor técnico e estratégico em ambientes orientados a dados. A inovação, o aprendizado contínuo e a diversidade são os pilares que prezo em um ambiente de trabalho, e estou sempre buscando aprender e me adaptar às novas tecnologias para construir soluções que agregam valor para o cliente.
+Com mais de **7 anos de experiência no mercado** em Administração e agora há **mais de 2 anos em Engenharia de Dados**, atuo com **Engenharia de Dados em Cloud**. Familiarizada com uma série de tecnologias e ferramentas, sou capaz de agregar valor técnico e estratégico em ambientes orientados a dados. A inovação, o aprendizado contínuo e a diversidade são os pilares que prezo em um ambiente de trabalho, e estou sempre buscando aprender e me adaptar às novas tecnologias para construir soluções que agregam valor para o cliente.
 
-> Experiência em projetos de Engenharia de Dados : 1+ anos (Início Jan 2023)
+> Experiência em projetos pessoas e profissionais de Engenharia de Dados : 2+ anos (Início Jan 2023)
 
 ## 💡 Projetos em Andamento
 Estou constantemente buscando aprimorar minhas habilidades e aplicá-las em projetos práticos. 
@@ -22,10 +22,7 @@ Fique atento às atualizações deste espaço!
 
 ### 🛠️ Tecnologias & Ferramentas
 - **Linguagens:** Python, SQL , Spark
-- **Big Data:** Hadoop, Hive, Sqoop, HBase
 - **Bancos de Dados:** MySQL, PostgreSQL, MongoDB, Redis
-- **Stream Processing:** Kafka (incluindo KSQL, Kafka Connect)
-- **Elastic Stack:** Elasticsearch, Logstash, Kibana
 - **Conteinerização:** Docker, Docker Compose (orquestração de containers)
 - **ETL & Data Processing:** Transformação e manipulação de dados , criação de pipelines , Datalake , Datawarehouse , Modelagem de Dados, Orquestração de jobs.
 - **Cloud** : AWS (adepta a aprender outras)
@@ -49,7 +46,8 @@ _Dezembro 2022 - Março 2023_
 - Focos em aprender Python e SQL como ferramentas fundamentais da área.
 - **Competências chave:** Python, SQL , Modelagem de Dados , Transformação de Dados.
   
-## 📚 Cursos & Certificações
+## 📚 Formações, Cursos & Certificações
+- **MBA em Big Data e Inteligência Competitiva** - Pós Graduação (2025 - Atualmente)
 - **Spark - Big Data Processing** - Semantix (Agosto 2023)
 - **Elastic Essentials** - Semantix (Julho 2023)
 - **Kafka - Básico** - Semantix (Junho 2023)
