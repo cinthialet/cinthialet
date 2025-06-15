@@ -28,8 +28,28 @@ Fique atento às atualizações deste espaço!
 - **Cloud** : AWS (adepta a aprender outras)
 
 ## 🏢 Experiência Laboral
+
+### Engenheira de Dados | Analytics Engineer — DESCOMPLICA (Remoto)
+_Ago 2024 – Atual_
+    • Responsável pelo desenvolvimento e automação de processos de dados com Python, Airflow, SQL, Snowflake e GCP.
+    • Implementação de pipelines de ETL com ingestão em Data Warehouse: criação e manutenção de pipelines automatizados utilizando Airflow, com extração de dados do Postgres, transformação e carregamento em BigQuery.
+    • Criação e manutenção de tabelas, views, procedures , tasks e functions no Snowflake, assegurando governança e performance.
+    • Refatoração de pipeline crítico de dados, migrando código de produção legado em Jupyter Server (Python) para uma procedure com task de agendamento no Snowflake (SQL). O projeto envolveu o desenvolvimento de documentação técnica (inexistente anteriormente), mapeamento em diagrama de data lineage, implementação de processo incremental, monitoramento do pipeline e otimização do fluxo de dados, garantindo escalabilidade, governança e redução de custos operacionais.
+    • Automatização da integração de dados de campanhas de marketing via Supermetrics API, centralizando custos em BigQuery.
+    • Análise de dados e criação de relatórios no Metabase, suportando decisões de negócio.
+    • Refatoração de códigos Python orientados a objetos, aderindo a design patterns corporativos.
+    • PoC de monitoramento de custos de IA Generativa usando API da OpenAI e relatórios de consumo de tokens.
+
+### Engenheira de Dados Júnior | Freelance (Remoto)
+_Jan/2024 – _Jun/2024
+    • Projeto de migração de dados de inventário para AWS, focado em transferir dados para Amazon Redshift.
+    • Criação de data lake de 3 camadas em S3 e uso de Redshift para análise, com monitoramento via CloudWatch.
+    • Configuração de pipeline ETL com AWS Glue Jobs para transformar e carregar dados on‑demand.
+    • Processamento semanal de 20 arquivos CSV (5‑15 mil registros) com Python para limpeza e classificação.
+    • Desenvolvimento de consultas SQL no Redshift para KPIs de inventário semestral e análise por loja.
+
 ### Data Engineer | Projetos Cloud AWS (Remoto)
-_Setembro 2023 - Atualmente_
+_Setembro 2023 - Janeiro 2024_
 - Criação e implementação de projetos de Engenharia de Dados usando a Cloud da AWS.
 - Projetos : https://github.com/cinthialet/cinthialet#-projetos-em-andamento
 - **Competências chave:** Python, SQL , Spark , Cloud Data Engineering , ETL pipeline, Modelagem de Dados , DataLake , DataWarehouse, AWS ( S3, Redshift , Glue Jobs, Glue Workflow , Lambda , Athena , Cloudwatch, IAM ).
