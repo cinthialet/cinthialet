@@ -41,7 +41,7 @@ _Ago 2024 – Atual_
 - PoC de monitoramento de custos de IA Generativa usando API da OpenAI e relatórios de consumo de tokens.
 
 ### Engenheira de Dados Júnior | Freelance (Remoto)
-_Jan/2024 – _Jun/2024
+_Jan/2024 – Jun/2024_
 - Projeto de migração de dados de inventário para AWS, focado em transferir dados para Amazon Redshift.
 - Criação de data lake de 3 camadas em S3 e uso de Redshift para análise, com monitoramento via CloudWatch.
 - Configuração de pipeline ETL com AWS Glue Jobs para transformar e carregar dados on‑demand.
