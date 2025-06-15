@@ -35,13 +35,12 @@ _Ago 2024 – Atual_
 - Implementação de pipelines de ETL com ingestão em Data Warehouse: criação e manutenção de pipelines automatizados utilizando Airflow, com extração de dados do Postgres, transformação e carregamento em BigQuery.
 - Criação e manutenção de tabelas, views, procedures , tasks e functions no Snowflake, assegurando governança e performance.
 - Refatoração de pipeline crítico de dados, migrando código de produção legado em Jupyter Server (Python) para uma procedure com task de agendamento no Snowflake (SQL). O projeto envolveu o desenvolvimento de documentação técnica (inexistente anteriormente), mapeamento em diagrama de data lineage, implementação de processo incremental, monitoramento do pipeline e otimização do fluxo de dados, garantindo escalabilidade, governança e redução de custos operacionais.
-- Automatização da integração de dados de campanhas de marketing via Supermetrics API, centralizando custos em BigQuery.
 - Análise de dados e criação de relatórios no Metabase, suportando decisões de negócio.
 - Refatoração de códigos Python orientados a objetos, aderindo a design patterns corporativos.
 - PoC de monitoramento de custos de IA Generativa usando API da OpenAI e relatórios de consumo de tokens.
 
 ### Engenheira de Dados Júnior | Freelance (Remoto)
-_Jan/2024 – Jun/2024_
+_Jan 2024 – Jun 2024_
 - Projeto de migração de dados de inventário para AWS, focado em transferir dados para Amazon Redshift.
 - Criação de data lake de 3 camadas em S3 e uso de Redshift para análise, com monitoramento via CloudWatch.
 - Configuração de pipeline ETL com AWS Glue Jobs para transformar e carregar dados on‑demand.
