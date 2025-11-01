@@ -66,7 +66,7 @@ _Dezembro 2022 - Março 2023_
 - **Competências chave:** Python, SQL , Modelagem de Dados , Transformação de Dados.
   
 ## 📚 Formações, Cursos & Certificações
-- **MBA em Big Data e Inteligência Competitiva** - Pós Graduação (2025 - Atualmente)
+- **MBA em Big Data e Inteligência Competitiva** - Pós Graduação (Outubro 2025)
 - **Spark - Big Data Processing** - Semantix (Agosto 2023)
 - **Elastic Essentials** - Semantix (Julho 2023)
 - **Kafka - Básico** - Semantix (Junho 2023)
