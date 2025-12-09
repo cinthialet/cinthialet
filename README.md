@@ -15,7 +15,7 @@ Aqui irei publicar meus projetos pessoais práticos e com passo-a-passo relacion
 - [Manipulação e Transformação de Dados com **Spark**](https://github.com/cinthialet/spark-manipulacao-dados) :white_check_mark:;
 - [Implementações de **Data Lake** e **Data Warehouse** usando serviços da **AWS (S3, Glue jobs & workflow, Redshift, IAM, CloudWatch)** com **Spark** e **SQL** para aplicar **Modelagem de Dados (tabelas FATO e DIM)**](https://github.com/cinthialet/aws-datalake-datawarehouse) :white_check_mark:;
 - [Processamento **ETL** de dados de Arquivo **JSON** com **AWS Lambda** e consulta com **Amazon Athena**](https://github.com/cinthialet/aws-json-athena) :white_check_mark:;
-- [Pipeline ETL com **Streaming near real time** com **Apache Beam** no **GCP (Cloud Function, Cloud Storage, Dataflow, Pub/Sub, BigQuery)**] (https://github.com/cinthialet/gcp-stream-pipeline-dataflow) :white_check_mark:;
+- [Pipeline ETL com **Streaming near real time** com **Apache Beam** no **GCP (Cloud Function, Cloud Storage, Dataflow, Pub/Sub, BigQuery)**](https://github.com/cinthialet/gcp-stream-pipeline-dataflow) :white_check_mark:;
 - Mais projetos de DE :soon:;
   
 Fique atento às atualizações deste espaço!
