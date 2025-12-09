@@ -2,11 +2,11 @@
 
 
 ## 🚀 Sobre Mim
-Com mais de **7 anos de experiência no mercado** em Administração e agora há **mais de 2 anos em Engenharia de Dados**, atuo com **Engenharia de Dados em Cloud**. Familiarizada com uma série de tecnologias e ferramentas, sou capaz de agregar valor técnico e estratégico em ambientes orientados a dados. A inovação, o aprendizado contínuo e a diversidade são os pilares que prezo em um ambiente de trabalho, e estou sempre buscando aprender e me adaptar às novas tecnologias para construir soluções que agregam valor para o cliente.
+Com mais de **7 anos de experiência no mercado** em Administração e agora há **3 anos em Engenharia de Dados**, atuo com **Engenharia de Dados em Cloud**. Familiarizada com uma série de tecnologias e ferramentas, sou capaz de agregar valor técnico e estratégico em ambientes orientados a dados. A inovação, o aprendizado contínuo e a diversidade são os pilares que prezo em um ambiente de trabalho, e estou sempre buscando aprender e me adaptar às novas tecnologias para construir soluções que agregam valor para o cliente.
 
 > Experiência em projetos pessoas e profissionais de Engenharia de Dados : 2+ anos (Início Jan 2023)
 
-## 💡 Projetos em Andamento
+## 💡 Projetos Pessoais
 Estou constantemente buscando aprimorar minhas habilidades e aplicá-las em projetos práticos. 
 Aqui irei publicar meus projetos pessoais práticos e com passo-a-passo relacionados a:
 
@@ -15,17 +15,17 @@ Aqui irei publicar meus projetos pessoais práticos e com passo-a-passo relacion
 - [Manipulação e Transformação de Dados com **Spark**](https://github.com/cinthialet/spark-manipulacao-dados) :white_check_mark:;
 - [Implementações de **Data Lake** e **Data Warehouse** usando serviços da **AWS (S3, Glue jobs & workflow, Redshift, IAM, CloudWatch)** com **Spark** e **SQL** para aplicar **Modelagem de Dados (tabelas FATO e DIM)**](https://github.com/cinthialet/aws-datalake-datawarehouse) :white_check_mark:;
 - [Processamento **ETL** de dados de Arquivo **JSON** com **AWS Lambda** e consulta com **Amazon Athena**](https://github.com/cinthialet/aws-json-athena) :white_check_mark:;
-- Projetos relacionados à **streaming de dados** :soon:;
-- Aplicações e infraestruturas baseadas em **Docker** para conteinerização e orquestração de containers com **Docker Compose** :soon:.
+- [Pipeline ETL com **Streaming near real time** com **Apache Beam** no **GCP (Cloud Function, Cloud Storage, Dataflow, Pub/Sub, BigQuery)**] (https://github.com/cinthialet/gcp-stream-pipeline-dataflow) :white_check_mark:;
+- Mais projetos de DE :soon:;
   
 Fique atento às atualizações deste espaço!
 
 ### 🛠️ Tecnologias & Ferramentas
-- **Linguagens:** Python, SQL , Spark
-- **Bancos de Dados:** MySQL, PostgreSQL, MongoDB, Redis
+- **Linguagens e Frameworks:** Python, SQL , Spark , Beam
+- **Bancos de Dados:** MySQL, PostgreSQL, MongoDB, Redis, Redshift, Snowflake, BigQuery
 - **Conteinerização:** Docker, Docker Compose (orquestração de containers)
 - **ETL & Data Processing:** Transformação e manipulação de dados , criação de pipelines , Datalake , Datawarehouse , Modelagem de Dados, Orquestração de jobs.
-- **Cloud** : AWS (adepta a aprender outras)
+- **Cloud** : AWS, GCP
 
 ## 🏢 Experiência Laboral
 
