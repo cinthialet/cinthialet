@@ -30,7 +30,7 @@ Fique atento às atualizações deste espaço!
 ## 🏢 Experiência Laboral
 
 ### Engenheira de Dados | Analytics Engineer — DESCOMPLICA (Remoto)
-_Ago 2024 – Out 2025_
+_Ago 2024 – Dez 2025_
 - Responsável pelo desenvolvimento e automação de processos de dados com Python, Airflow, SQL, Snowflake e GCP.
 - Implementação de pipelines de ETL com ingestão em Data Warehouse: criação e manutenção de pipelines automatizados utilizando Airflow, com extração de dados do Postgres, transformação e carregamento em BigQuery.
 - Criação e manutenção de tabelas, views, procedures , tasks e functions no Snowflake, assegurando governança e performance.
